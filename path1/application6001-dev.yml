@@ -38,4 +38,4 @@ info:
 # 自定义配置参数
 sys:
   weChat:
-    appid: 1111111111111-path
+    appid: 1111111111111-dev-path1
